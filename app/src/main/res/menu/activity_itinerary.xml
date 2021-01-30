@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:namespace="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_new_event"
+        android:title="@string/menu_new_event"
+        namespace:showAsAction="ifRoom"></item>
+
+    <item android:id="@+id/menu_set_alarms"
+        android:title="@string/menu_set_alarms"
+        namespace:showAsAction="never"></item>
+
+    <item android:id="@+id/menu_cancel_alarms"
+        android:title="@string/menu_cancel_alarms"
+        namespace:showAsAction="never"></item>
+</menu>

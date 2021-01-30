@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">METinerary</string>
+    
+    <string name="menu_new_event">New Event</string>
+    <string name="menu_set_alarms">Set Alarms</string>
+    <string name="menu_cancel_alarms">Cancel Alarms</string>
+
+    <string name="itemDescriptionEditText">This is an item description example.</string>
+
+    <string name="eventTitleTextView">Title</string>
+
+    <string name="saveEventButton">Save Event</string>
+    <string name="discardChangesButton">Discard Changes</string>
+    <string name="deleteEventButton">Delete Event</string>
+    <string name="METOffset">METOffset</string>
+
+</resources>
